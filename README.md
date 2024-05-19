@@ -9,8 +9,6 @@ This project is my final year project for my Bachelor's degree in Image and Soun
 - **Natural Language Processing (NLP)**: Utilizes advanced NLP techniques to preprocess and analyze Spanish text data.
 - **Sentiment Analysis Model**: Implements various machine learning algorithms, including deep learning models, to classify sentiment.
 - **Data Augmentation**: Employs data augmentation techniques to expand and enhance the dataset, improving model performance.
-- **Integration with ChatGPT**: Uses ChatGPT to generate synonyms and expand the dataset, ensuring a robust training set.
-- **Model Optimization**: Focuses on optimizing model weights and performance through techniques like Kolmogorov Arnold Networks and BitNets.
 
 ## Project Components
 
@@ -21,17 +19,13 @@ This project is my final year project for my Bachelor's degree in Image and Soun
 
 2. **Data Augmentation**
    - Developed a custom data augmentation algorithm for NLP.
-   - Integrated ChatGPT to generate synonyms and expand the dataset.
    - Ensured the augmented data maintained contextual relevance and accuracy.
 
 3. **Model Development**
    - Experimented with various machine learning models, including traditional classifiers and deep learning architectures.
-   - Implemented transformer-based models and convolutional neural networks for sentiment analysis.
-   - Optimized models using techniques like Kolmogorov Arnold Networks and BitNets.
 
 4. **Evaluation and Optimization**
    - Evaluated model performance using metrics like accuracy, precision, recall, and F1-score.
-   - Optimized models to reduce computational load and improve inference speed.
 
 ## Getting Started
 
